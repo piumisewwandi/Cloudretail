@@ -1,0 +1,57 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+*.o
+*.obj
+*.class
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.sublime-*
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Cache directories
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS generated files
+.Spotlight-V100
+.Trashes
+ehthumbs.db
