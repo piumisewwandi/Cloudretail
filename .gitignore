@@ -43,7 +43,6 @@ vendor/
 # Backup files
 *.bak
 *.backup
-*~
 
 # Cache directories
 .cache/
