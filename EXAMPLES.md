@@ -182,7 +182,7 @@ git add application/
 git add ml-project/
 # Automatically handles:
 # - Model files (H5, PTH, CKPT)
-# - Datasets (CSV, PARQUET)
+# - Large datasets (PARQUET)
 # - Databases (DB, SQLITE)
 ```
 
